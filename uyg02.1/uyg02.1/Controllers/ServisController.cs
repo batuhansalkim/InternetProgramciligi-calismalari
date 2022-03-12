@@ -48,5 +48,6 @@ namespace uyg02._1.Controllers
 
             return kayit;
         }
+        public BadImageFormatException;
     }
 }
